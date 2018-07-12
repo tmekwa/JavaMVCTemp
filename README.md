@@ -13,7 +13,7 @@
 # Run
 
   🏃‍♂️ copy:
-            $> sh run.sh
+            ```$> sh run.sh```
 
 # Enjoy
   
